@@ -7,8 +7,6 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="font-sans text-gray-900 bg-white">
-
-  <!-- Hero sekce -->
   <section class="relative h-screen bg-cover bg-center" style="background-image: url('images/drevo.jpg');">
     <div class="absolute inset-0 bg-black bg-opacity-60"></div>
     <header class="absolute top-0 left-0 w-full flex justify-between items-center p-6 text-white z-10">
@@ -30,8 +28,7 @@
       </a>
     </div>
   </section>
-
-  <!-- Produkty -->
+  
   <section id="produkty" class="py-20 bg-gray-50">
     <div class="max-w-6xl mx-auto px-6 grid md:grid-cols-3 gap-10">
       <!-- Misky -->
@@ -43,8 +40,8 @@
           <button class="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-2 px-6 rounded-lg">Zobrazit více</button>
         </div>
       </div>
-      <!-- Prkénka -->
-      <div class="bg-white shadow-lg rounded-2xl overflow-hidden hover:-translate-y-2 transition">
+
+   <div class="bg-white shadow-lg rounded-2xl overflow-hidden hover:-translate-y-2 transition">
         <img src="images/prkenka.jpg" alt="Kuchyňská prkénka" class="w-full h-80 object-cover">
         <div class="p-6 text-center">
           <h3 class="text-2xl font-bold text-gray-800 mb-2">Kuchyňská prkénka</h3>
@@ -52,8 +49,8 @@
           <button class="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-2 px-6 rounded-lg">Zobrazit více</button>
         </div>
       </div>
-<!-- Řezby -->
-      <div class="bg-white shadow-lg rounded-2xl overflow-hidden hover:-translate-y-2 transition">
+
+  <div class="bg-white shadow-lg rounded-2xl overflow-hidden hover:-translate-y-2 transition">
         <img src="images/rezby.jpg" alt="Dekorativní řezby" class="w-full h-80 object-cover">
         <div class="p-6 text-center">
           <h3 class="text-2xl font-bold text-gray-800 mb-2">Dekorativní řezby</h3>
@@ -62,10 +59,9 @@
         </div>
       </div>
 
-    </div>
   </section>
 
-  <!-- O mně -->
+
   <section id="omne" class="py-20">
     <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-10 px-6">
       <div class="md:w-1/2">
