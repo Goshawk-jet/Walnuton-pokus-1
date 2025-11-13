@@ -7,7 +7,8 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="font-sans text-gray-900 bg-white">
-  <section class="relative h-screen bg-cover bg-center" style="background-image: url('images/drevo.jpg');">
+  <section class="relative h-screen bg-cover bg-center" style="background-image: url(![photo-1513936024644-50689b4bcb5c](https://github.com/user-attachments/assets/326e0e03-e8dc-4cdb-ab09-3261eddfa51b)
+);">
     <div class="absolute inset-0 bg-black bg-opacity-60"></div>
     <header class="absolute top-0 left-0 w-full flex justify-between items-center p-6 text-white z-10">
       <h1 class="text-lg font-semibold">Walnuton</h1>
