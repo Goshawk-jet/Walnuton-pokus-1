@@ -20,7 +20,7 @@
       </nav>
     </header>
 
-    <div class="relative z-10 flex flex-col justify-center h-full px-10 md:px-20 text-white">
+  <div class="relative z-10 flex flex-col justify-center h-full px-10 md:px-20 text-white">
       <h2 class="text-6xl md:text-7xl font-extrabold leading-tight mb-4">
         Řemeslné <br> Dřevěné <br> Výrobky
       </h2>
@@ -34,7 +34,6 @@
   <!-- Produkty -->
   <section id="produkty" class="py-20 bg-gray-50">
     <div class="max-w-6xl mx-auto px-6 grid md:grid-cols-3 gap-10">
-      
       <!-- Misky -->
       <div class="bg-white shadow-lg rounded-2xl overflow-hidden hover:-translate-y-2 transition">
         <img src="images/misky.jpg" alt="Dřevěné misky" class="w-full h-80 object-cover">
@@ -44,7 +43,6 @@
           <button class="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-2 px-6 rounded-lg">Zobrazit více</button>
         </div>
       </div>
-
       <!-- Prkénka -->
       <div class="bg-white shadow-lg rounded-2xl overflow-hidden hover:-translate-y-2 transition">
         <img src="images/prkenka.jpg" alt="Kuchyňská prkénka" class="w-full h-80 object-cover">
@@ -54,8 +52,7 @@
           <button class="bg-yellow-500 hover:bg-yellow-600 text-black font-semibold py-2 px-6 rounded-lg">Zobrazit více</button>
         </div>
       </div>
-
-      <!-- Řezby -->
+<!-- Řezby -->
       <div class="bg-white shadow-lg rounded-2xl overflow-hidden hover:-translate-y-2 transition">
         <img src="images/rezby.jpg" alt="Dekorativní řezby" class="w-full h-80 object-cover">
         <div class="p-6 text-center">
